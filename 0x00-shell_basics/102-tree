@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -mep welcome/to/school
+mkdir -map welcome/to/school
