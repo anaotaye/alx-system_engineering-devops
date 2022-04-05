@@ -1,0 +1,2 @@
+#!/bin/bash
+printf "%x\16\n" $DECIMAL
